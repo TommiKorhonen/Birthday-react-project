@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Birthday-react-project/static/css/main.a25574c1.chunk.css",
+    "main.js": "/Birthday-react-project/static/js/main.3ba9b5df.chunk.js",
+    "main.js.map": "/Birthday-react-project/static/js/main.3ba9b5df.chunk.js.map",
+    "runtime-main.js": "/Birthday-react-project/static/js/runtime-main.8303af8d.js",
+    "runtime-main.js.map": "/Birthday-react-project/static/js/runtime-main.8303af8d.js.map",
+    "static/js/2.1f771bf1.chunk.js": "/Birthday-react-project/static/js/2.1f771bf1.chunk.js",
+    "static/js/2.1f771bf1.chunk.js.map": "/Birthday-react-project/static/js/2.1f771bf1.chunk.js.map",
+    "index.html": "/Birthday-react-project/index.html",
+    "precache-manifest.92556e2ec3e3307c62bbcfe23269b6d3.js": "/Birthday-react-project/precache-manifest.92556e2ec3e3307c62bbcfe23269b6d3.js",
+    "service-worker.js": "/Birthday-react-project/service-worker.js",
+    "static/css/main.a25574c1.chunk.css.map": "/Birthday-react-project/static/css/main.a25574c1.chunk.css.map",
+    "static/js/2.1f771bf1.chunk.js.LICENSE.txt": "/Birthday-react-project/static/js/2.1f771bf1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8303af8d.js",
+    "static/js/2.1f771bf1.chunk.js",
+    "static/css/main.a25574c1.chunk.css",
+    "static/js/main.3ba9b5df.chunk.js"
+  ]
+}
