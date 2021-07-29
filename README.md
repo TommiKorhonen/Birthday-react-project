@@ -10,7 +10,7 @@ Starter files included ready css and js files where I added the functionality an
 
 
 
-
+https://tommikorhonen.github.io/Birthday-react-project/
 
 ## Idea
 
